@@ -126,7 +126,7 @@ align-items:flex-start;
 .challenge {
     margin: 50px auto;
     background:#e8e8fa;
-    width: 50%;
+    width: 80%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -143,6 +143,17 @@ align-items:flex-start;
     flex: 1 12%;
     margin-right: 20px;
 }
+/*End of Challenge*/
+
+/*Random Link*/
+.gtn-text {
+    background:black;
+    color: blanchedalmond;
+    font-style: bold;
+    font-size: 50px;
+    vertical-align: text-top;
+}
+/*Random Link*/
 
 .contact-info {
     background-color: #E8E8FA;
