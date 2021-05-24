@@ -133,8 +133,7 @@ align-items:flex-start;
     justify-content: space-between;
 }
 .challenge-text {
-    background:black;
-    color: blanchedalmond;
+    color: black;
     font-style: bold;
     font-size: 50px;
     vertical-align: text-top;
@@ -146,15 +145,29 @@ align-items:flex-start;
 /*End of Challenge*/
 
 /*Random Link*/
+.gtn {
+    margin: 50px auto;
+    background:#e8e8fa;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
 .gtn-text {
-    background:black;
-    color: blanchedalmond;
+    color: black;
     font-style: bold;
     font-size: 50px;
     vertical-align: text-top;
 }
+.gtn-img {
+    align-items: center;
+flex: 1 12%;
+margin-right: 20px;
+}
 /*Random Link*/
 
 .contact-info {
+    font-size: 40px;
     background-color: #E8E8FA;
 }
